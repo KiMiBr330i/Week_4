@@ -1,3 +1,8 @@
+//-----------------------------------------------------------------------
+// Lab 4 exercise 4 - CPSC-50100-002
+// Kip Brower 08-22-20
+// Numbers.java - incomplete
+//-----------------------------------------------------------------------
 import java.util.Arrays;
 import java.util.Scanner;
 
